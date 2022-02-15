@@ -1,4 +1,3 @@
-from dataclasses import dataclass
 import pandas as pd
 
 def weighted_rating(filtered_dataset, m, C):
