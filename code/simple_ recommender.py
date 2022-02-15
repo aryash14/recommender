@@ -30,5 +30,5 @@ if __name__ == '__main__':
     filtered_dataset = filtered_dataset.sort_values('score', ascending=False)
 
     # #Print the top 15 movies
-    print(filtered_dataset[['title', 'vote_count', 'vote_average', 'score']].head(20))
+    # print(filtered_dataset[['title', 'vote_count', 'vote_average', 'score']].head(20))
 
