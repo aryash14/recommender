@@ -84,7 +84,7 @@ if __name__ == '__main__':
     cosine_sim2 = cosine_similarity(count_matrix, count_matrix)
     indices = pd.Series(metadata.index, index=metadata['title'])
     metadata = metadata.reset_index()
-    movies = get_recommendation("The Dark Knight Rises", cosine_sim2)
+    movies = get_recommendation("The Fast and the Furious Collection", cosine_sim2)
     for idx,movie in enumerate(movies):
         print(idx+1, " ", movie)
     exit()
