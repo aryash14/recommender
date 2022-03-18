@@ -1,0 +1,56 @@
+'''
+Getting access to current ALAC tutors
+'''
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jun 14 09:50:52 2021
+
+@author: shahva
+"""
+
+from ast import Continue
+from ssl import AlertDescription
+import requests
+from bs4 import BeautifulSoup as bs
+from PIL import Image
+import urllib
+import random
+import os
+
+def get_ALAC_tutor():
+    url = "https://info.rpi.edu/advising-learning-assistance/learning-assistance"
+    agent = {"User-Agent":'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36'}
+    page = requests.get(url, headers=agent)
+    soup = bs(page.content, 'html.parser')
+    ALAC = soup.body.find(id="page").find(id='section-content').find(id="zone-content-wrapper").find(id ="zone-content")\
+    .find(id="region-content").find(class_="region-inner region-content-inner").find(id="block-system-main")\
+    .find(class_ ="block-inner clearfix").find(class_="content clearfix").find(id="node-page-34379")\
+    .find(class_="content clearfix").find(class_="field-collection-container clearfix").find(class_="field field-name-field-building-block field-type-field-collection field-label-hidden")\
+    .find(class_="field-items").find(class_="field-item even").find(class_="field-collection-view clearfix view-mode-full")\
+    .find(class_="content").find(class_="field field-name-field-text field-type-text-long field-label-hidden")\
+    .find(class_="field-item even").find(class_="Table")
+    dictionary = dict()
+    i =0
+    for tutor in ALAC.findAll('tr'):
+        info = tutor.findAll("td")
+        data = info[0].text.strip().split(" ")
+        class_name = ' '.join(data[2:])
+        print(info[1].find('p').get_text().strip())
+        # tutor = "Small Group Tutoring"
+        # webex = "N/A"
+        # if(info[1].text.strip()[0:5] != "Small"):
+        #     tutor = info[1].text.strip()
+        #     webex = info[1].find("a").get('href')
+        # if class_name in dictionary.keys():
+        #     continue
+        # else:
+        #     dictionary[class_name] = {"Level": ' '.join(data[0:2]), "Tutors": [{"Name": tutor, "Webex":webex}]}
+        # print(dictionary)
+        if (i == 2):
+            break
+        i = i + 1
+
+    
+if __name__ == "__main__":
+    get_ALAC_tutor()
+        
