@@ -8,8 +8,8 @@ Created on Mon Jun 14 09:50:52 2021
 @author: shahva
 """
 
-from ast import Continue
-from ssl import AlertDescription
+import bs4
+import turtle
 import requests
 from bs4 import BeautifulSoup as bs
 from PIL import Image
@@ -30,25 +30,27 @@ def get_ALAC_tutor():
     .find(class_="content").find(class_="field field-name-field-text field-type-text-long field-label-hidden")\
     .find(class_="field-item even").find(class_="Table")
     dictionary = dict()
-    i =0
     for tutor in ALAC.findAll('tr'):
         info = tutor.findAll("td")
+        if isinstance(info[0].p, bs4.element.Tag):
+            info[0].p.decompose()
         data = info[0].text.strip().split(" ")
         class_name = ' '.join(data[2:])
-        print(info[1].find('p').get_text().strip())
-        # tutor = "Small Group Tutoring"
-        # webex = "N/A"
+        copy = info[1].p.text.strip()
+        info[1].p.decompose()
+        tutor = info[1].text.strip().split('-')[0]
+        webex = "N/A"
+        if tutor[0:5] != "Small":
+            webex = copy
+        print(class_name)     
         # if(info[1].text.strip()[0:5] != "Small"):
         #     tutor = info[1].text.strip()
         #     webex = info[1].find("a").get('href')
-        # if class_name in dictionary.keys():
-        #     continue
-        # else:
-        #     dictionary[class_name] = {"Level": ' '.join(data[0:2]), "Tutors": [{"Name": tutor, "Webex":webex}]}
-        # print(dictionary)
-        if (i == 2):
-            break
-        i = i + 1
+        if class_name in dictionary.keys():
+            dictionary[class_name]["Tutors"].append({"Name": tutor, "Webex":webex})
+        else:
+            dictionary[class_name] = {"Level": ' '.join(data[0:2]), "Tutors": [{"Name": tutor, "Webex":webex}]}
+    print(dictionary)
 
     
 if __name__ == "__main__":
