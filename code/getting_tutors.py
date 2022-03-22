@@ -36,20 +36,28 @@ def get_ALAC_tutor():
             info[0].p.decompose()
         data = info[0].text.strip().split(" ")
         class_name = ' '.join(data[2:])
-        copy = info[1].p.text.strip()
-        info[1].p.decompose()
-        tutor = info[1].text.strip().split('-')[0]
-        webex = "N/A"
+        link = "N/A"
+        try:
+            copy = info[1].p.text.strip()
+            info[1].p.decompose()
+            tutor = info[1].text.strip().split('-')[0]
+            # print(info[1].text.split('-'))
+        except AttributeError:
+            tutor = info[1].text.split('-')[0].strip()
+            link = info[1].text.split('-')[1].strip()
         if tutor[0:5] != "Small":
-            webex = copy
-        print(class_name)     
+            link = copy
+        tutor = tutor.replace(u'\xa0', u' ')
+        print(class_name) 
+        # print(data[0:2])  
+        print(tutor)  
         # if(info[1].text.strip()[0:5] != "Small"):
         #     tutor = info[1].text.strip()
         #     webex = info[1].find("a").get('href')
         if class_name in dictionary.keys():
-            dictionary[class_name]["Tutors"].append({"Name": tutor, "Webex":webex})
+            dictionary[class_name]["Tutors"].append({"Name": tutor, "Link":link})
         else:
-            dictionary[class_name] = {"Level": ' '.join(data[0:2]), "Tutors": [{"Name": tutor, "Webex":webex}]}
+            dictionary[class_name] = {"Level": ' '.join(data[0:2]), "Tutors": [{"Name": tutor, "Link":link}]}
     print(dictionary)
 
     
