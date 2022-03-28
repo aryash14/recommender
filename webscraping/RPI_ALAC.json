@@ -1,0 +1,309 @@
+{
+    "Intro Biology": {
+        "Level": "BIOL 1010",
+        "Tutors": [
+            {
+                "Name": "Small Group Tutoring ",
+                "Access": "N/A"
+            }
+        ]
+    },
+    "Intro Cell Biology": {
+        "Level": "BIOL 2100",
+        "Tutors": [
+            {
+                "Name": "Small Group Tutoring ",
+                "Access": "N/A"
+            },
+            {
+                "Name": "David Tzorfas",
+                "Access": "https://rensselaer.webex.com/meet/tzorfd"
+            }
+        ]
+    },
+    "Chem I": {
+        "Level": "CHEM 1100",
+        "Tutors": [
+            {
+                "Name": "Small Group Tutoring ",
+                "Access": "N/A"
+            },
+            {
+                "Name": "David Tzorfas",
+                "Access": "https://rensselaer.webex.com/meet/tzorfd"
+            }
+        ]
+    },
+    "Chem II": {
+        "Level": "CHEM 1200",
+        "Tutors": [
+            {
+                "Name": "Small Group Tutoring ",
+                "Access": "N/A"
+            }
+        ]
+    },
+    "Organic Chem II": {
+        "Level": "CHEM 2260",
+        "Tutors": [
+            {
+                "Name": "Shabnam Fulmer",
+                "Access": "https://rensselaer.webex.com/meet/fulmes"
+            }
+        ]
+    },
+    "Comp. Sci I": {
+        "Level": "CSCI 1100",
+        "Tutors": [
+            {
+                "Name": "Zach Burpee",
+                "Access": "https://submitty.cs.rpi.edu/courses/s22/csci1100/office_hours_queue"
+            },
+            {
+                "Name": "Huy Chu",
+                "Access": "https://submitty.cs.rpi.edu/courses/s22/csci1100/office_hours_queue"
+            },
+            {
+                "Name": "Cooper  Hay",
+                "Access": "https://submitty.cs.rpi.edu/courses/s22/csci1100/office_hours_queue"
+            },
+            {
+                "Name": "Shirley Tom",
+                "Access": "https://submitty.cs.rpi.edu/courses/s22/csci1100/office_hours_queue"
+            },
+            {
+                "Name": "Sharat Val",
+                "Access": "https://submitty.cs.rpi.edu/courses/s22/csci1100/office_hours_queue"
+            },
+            {
+                "Name": "Kevin Liu",
+                "Access": "https://submitty.cs.rpi.edu/courses/s22/csci1100/office_hours_queue"
+            }
+        ]
+    },
+    "Data Struct.": {
+        "Level": "CSCI 1200",
+        "Tutors": [
+            {
+                "Name": "Nick Chite",
+                "Access": "https://submitty.cs.rpi.edu/courses/s22/csci1200/office_hours_queue"
+            },
+            {
+                "Name": "Kacy Adams",
+                "Access": "https://submitty.cs.rpi.edu/courses/s22/csci1200/office_hours_queue"
+            },
+            {
+                "Name": "Dru Ellering",
+                "Access": "https://submitty.cs.rpi.edu/courses/s22/csci1200/office_hours_queue"
+            },
+            {
+                "Name": "Michael Papadopoulos",
+                "Access": "https://submitty.cs.rpi.edu/courses/s22/csci1200/office_hours_queue"
+            },
+            {
+                "Name": "Mohammed Kalefa",
+                "Access": "https://submitty.cs.rpi.edu/courses/s22/csci1200/office_hours_queue"
+            }
+        ]
+    },
+    "Struct.": {
+        "Level": "CSCI 1200\u00a0\u00a0Data",
+        "Tutors": [
+            {
+                "Name": "Jingyang Guo",
+                "Access": "https://submitty.cs.rpi.edu/courses/s22/csci1200/office_hours_queue"
+            }
+        ]
+    },
+    "IEA": {
+        "Level": "ENGR 1100",
+        "Tutors": [
+            {
+                "Name": "Small Group Tutoring ",
+                "Access": "N/A"
+            },
+            {
+                "Name": "Izzy Formica ",
+                "Access": "Rukie Cahill - IN PERSON - DCC 318"
+            }
+        ]
+    },
+    "ENGR. CAD": {
+        "Level": "ENGR 1200",
+        "Tutors": [
+            {
+                "Name": "Small Group Tutoring ",
+                "Access": "N/A"
+            }
+        ]
+    },
+    "SOM": {
+        "Level": "ENGR 2530",
+        "Tutors": [
+            {
+                "Name": "Small Group Tutoring ",
+                "Access": "N/A"
+            }
+        ]
+    },
+    "MAU": {
+        "Level": "ENGR 2600",
+        "Tutors": [
+            {
+                "Name": "Yuan Dou",
+                "Access": "https://rensselaer.webex.com/meet/douy"
+            }
+        ]
+    },
+    "NuMPE.": {
+        "Level": "MANE 2110",
+        "Tutors": [
+            {
+                "Name": "Brian Delaney",
+                "Access": "https://rensselaer.webex.com/meet/delanb2"
+            },
+            {
+                "Name": "John Stotz",
+                "Access": "https://rensselaer.webex.com/meet/stotzj"
+            }
+        ]
+    },
+    "Calc I": {
+        "Level": "MATH 1010",
+        "Tutors": [
+            {
+                "Name": "Small Group Tutoring ",
+                "Access": "N/A"
+            },
+            {
+                "Name": "Mariel Doriah ",
+                "Access": "Alayna Abraham - IN PERSON DCC 337"
+            }
+        ]
+    },
+    "Calc II": {
+        "Level": "MATH 1020",
+        "Tutors": [
+            {
+                "Name": "Rukmani Cahill ",
+                "Access": "Folsom Library 1st Floor - ALAC Tutoring Space"
+            },
+            {
+                "Name": "Holly Lauzon ",
+                "Access": "Folsom Library 1st Floor - ALAC Tutoring Space"
+            },
+            {
+                "Name": "Claire Grande & Samuel Harrison ",
+                "Access": "Amanda King\u00a0 - IN PERSON DCC 236"
+            },
+            {
+                "Name": "Haochen Ren",
+                "Access": "https://rensselaer.webex.com/meet/renh3"
+            },
+            {
+                "Name": "Spring Fang ",
+                "Access": "Folsom Library 1st Floor - ALAC Tutoring Space"
+            },
+            {
+                "Name": "Yichen Ma ",
+                "Access": "https://rensselaer.webex.com/meet/may11"
+            },
+            {
+                "Name": "Chacrica Pagadala",
+                "Access": "https://rensselaer.webex.com/meet/pagadc"
+            },
+            {
+                "Name": "Chacrica Pagadala",
+                "Access": "https://rensselaer.webex.com/meet/pagadc"
+            },
+            {
+                "Name": "Keval Shah",
+                "Access": "https://rensselaer.webex.com/meet/shahk6"
+            },
+            {
+                "Name": "Yuan Dou",
+                "Access": "https://rensselaer.webex.com/meet/douy"
+            }
+        ]
+    },
+    "Multivariable Calc": {
+        "Level": "MATH 2010",
+        "Tutors": [
+            {
+                "Name": "Nate Zink",
+                "Access": "https://rensselaer.webex.com/meet/zinkn2"
+            },
+            {
+                "Name": "Navya Ajay",
+                "Access": "https://rensselaer.webex.com/meet/ajayn"
+            },
+            {
+                "Name": "Keegan Dant",
+                "Access": "https://rensselaer.webex.com/meet/dantk"
+            },
+            {
+                "Name": "Sarah Shiang",
+                "Access": "https://rensselaer.webex.com/meet/shians"
+            }
+        ]
+    },
+    "Intro Diff Eq.": {
+        "Level": "MATH 2400",
+        "Tutors": [
+            {
+                "Name": "Ali Amrani",
+                "Access": "https://rensselaer.webex.com/meet/amrana"
+            },
+            {
+                "Name": "Tyra Edgehill",
+                "Access": "https://rensselaer.webex.com/meet/edgeht"
+            },
+            {
+                "Name": "Christina Cavalluzzo",
+                "Access": "https://rensselaer.webex.com/meet/cavalc2"
+            },
+            {
+                "Name": "Siddhi Patel",
+                "Access": "https://rensselaer.webex.com/meet/patels22"
+            }
+        ]
+    },
+    "Physics I": {
+        "Level": "PHYS 1100",
+        "Tutors": [
+            {
+                "Name": "Holly Lauzon ",
+                "Access": "Folsom Library 1st Floor - ALAC Tutoring Space"
+            },
+            {
+                "Name": "Holly Rohlfs",
+                "Access": "https://rensselaer.webex.com/meet/rohlfh"
+            },
+            {
+                "Name": "Erich Bahm ",
+                "Access": "Folsom Library 1st Floor - ALAC Tutoring Space"
+            },
+            {
+                "Name": "Holly Lauzon ",
+                "Access": "Seethala, Shreyas - IN PERSON CII 3116"
+            },
+            {
+                "Name": "Erich Bahm",
+                "Access": "https://rensselaer.webex.com/meet/bahme"
+            },
+            {
+                "Name": "Andrew Voli",
+                "Access": "https://rensselaer.webex.com/meet/volia"
+            }
+        ]
+    },
+    "Physics II": {
+        "Level": "PHYS 1200",
+        "Tutors": [
+            {
+                "Name": "Small Group Tutoring ",
+                "Access": "N/A"
+            }
+        ]
+    }
+}
