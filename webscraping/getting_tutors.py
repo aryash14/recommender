@@ -9,15 +9,11 @@ Created on Mon Jun 14 09:50:52 2021
 """
 
 import bs4
-import turtle
 import requests
 from bs4 import BeautifulSoup as bs
-from PIL import Image
-import urllib
-import random
-import os
+import json
 
-def get_ALAC_tutor():
+def get_html():
     url = "https://info.rpi.edu/advising-learning-assistance/learning-assistance"
     agent = {"User-Agent":'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36'}
     page = requests.get(url, headers=agent)
@@ -29,6 +25,10 @@ def get_ALAC_tutor():
     .find(class_="field-items").find(class_="field-item even").find(class_="field-collection-view clearfix view-mode-full")\
     .find(class_="content").find(class_="field field-name-field-text field-type-text-long field-label-hidden")\
     .find(class_="field-item even").find(class_="Table")
+    return ALAC
+
+def get_ALAC_tutor():
+    ALAC = get_html()
     dictionary = dict()
     for tutor in ALAC.findAll('tr'):
         info = tutor.findAll("td")
@@ -48,17 +48,30 @@ def get_ALAC_tutor():
         if tutor[0:5] != "Small":
             link = copy
         tutor = tutor.replace(u'\xa0', u' ')
-        print(class_name) 
+        level = ' '.join(data[0:2])
+        # print(class_name) 
         # print(data[0:2])  
-        print(tutor)  
+        # print(tutor)  
         # if(info[1].text.strip()[0:5] != "Small"):
         #     tutor = info[1].text.strip()
         #     webex = info[1].find("a").get('href')
         if class_name in dictionary.keys():
-            dictionary[class_name]["Tutors"].append({"Name": tutor, "Link":link})
+            dictionary[class_name]["Tutors"].append({"Name": tutor, "Access":link})
         else:
-            dictionary[class_name] = {"Level": ' '.join(data[0:2]), "Tutors": [{"Name": tutor, "Link":link}]}
-    print(dictionary)
+            found = False
+            for k, v in dictionary.items():
+                if(v['Level'] == level):
+                    dictionary[k]["Tutors"].append({"Name": tutor, "Access":link})
+                    found = True
+                    break
+            if (found == False): 
+                dictionary[class_name] = {"Level": level, "Tutors": [{"Name": tutor, "Access":link}]}
+    # print(dictionary.values().keys())
+    # for k, v in dictionary.items():
+    #             print(v['Level'])
+    #             break
+    with open("RPI_ALAC.json", "w") as outfile:
+        outfile.write(json.dumps(dictionary, indent=4))
 
     
 if __name__ == "__main__":
