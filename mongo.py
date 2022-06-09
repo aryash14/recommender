@@ -3,10 +3,14 @@ from pymongo import MongoClient
 import pymongo
 from pymongo import MongoClient
 import json
+import os
 def get_database():
 
     # Provide the mongodb atlas url to connect python to mongodb using pymongo
-    CONNECTION_STRING = "mongodb+srv://Adm:instutor@cluster0.s0gxd.mongodb.net/?retryWrites=true&w=majority"
+    # username = os.environ.get('mongoDb')
+    f = open("monogDBURI.txt", "r")
+    CONNECTION_STRING = f.read()
+    f.close()
 
     # Create a connection using MongoClient. You can import MongoClient or use pymongo.MongoClient
     client = MongoClient(CONNECTION_STRING)
