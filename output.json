@@ -1,0 +1,632 @@
+{
+  "_id": "624f4d4d32b8f929f9b39c5e",
+  "major": [
+    "Computer Science"
+  ],
+  "requests": [],
+  "user": "624f4d1b32b8f92f5eb39c55",
+  "degree": "Undergraduate",
+  "bio": "A computer science sophomore proficient in introductory courses",
+  "location": "Troy, NY",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [
+    {
+      "relatedCourses": [
+        "Calculus II",
+        "Calculus I",
+        "Multivar Calc & Matrix Algebra"
+      ],
+      "_id": "6253e91d75e6c03eb0195500",
+      "area": "Mathematics",
+      "degree": "Undergraduate",
+      "description": "I have a strong background in calc 2"
+    },
+    {
+      "relatedCourses": [
+        "Data Structures",
+        "Computer Science I",
+        "Foundations Of Computer Sci"
+      ],
+      "_id": "6253e93975e6c03eb019550b",
+      "area": "Computer Science",
+      "degree": "Undergraduate",
+      "description": "I'm a strong data structures student and current mentor"
+    }
+  ],
+  "date": "2022-04-07 20:45:02.001000",
+  "__v": 4
+}{
+  "_id": "6250a6b627bc4d0376975462",
+  "major": [
+    "Industrial Engg"
+  ],
+  "requests": [],
+  "user": "6250a68327bc4d08da975459",
+  "degree": "Undergraduate",
+  "location": "Niskayuna",
+  "role": "Student",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-08 21:18:46.544000",
+  "__v": 0
+}{
+  "_id": "6254547a0dca0a0392878150",
+  "major": [
+    "Industrial and Management Engineering"
+  ],
+  "requests": [],
+  "user": "625454490dca0a8549878147",
+  "degree": "Undergraduate",
+  "location": "Troy, NY",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-11 16:16:58.544000",
+  "__v": 0
+}{
+  "_id": "62545d350dca0af313878175",
+  "major": [
+    "Applied Mathematics"
+  ],
+  "requests": [],
+  "user": "62545d0a0dca0a0c6487816c",
+  "degree": "Undergraduate",
+  "bio": "Nope",
+  "location": "Troy, NY",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-11 16:54:13.099000",
+  "__v": 0
+}{
+  "_id": "6254668e0dca0a43158781d2",
+  "major": [
+    "Electrical Engineering"
+  ],
+  "requests": [],
+  "user": "6254664d0dca0a7a238781c9",
+  "degree": "Undergraduate",
+  "bio": "I am a Freshman Student studying Electrical Engineering at RPI.",
+  "location": "Troy, NY",
+  "role": "Student",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-11 17:34:06.139000",
+  "__v": 0
+}{
+  "_id": "625478180dca0a0cd98781e8",
+  "major": [
+    "Computer Science"
+  ],
+  "requests": [],
+  "user": "625477c70dca0a19d88781df",
+  "degree": "Undergraduate",
+  "bio": "A young man from Brooklyn looking to become a future Software Engineer.",
+  "location": "Troy New York",
+  "role": "Student",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-11 18:48:56.091000",
+  "__v": 0
+}{
+  "_id": "62547fa20dca0a57a18781f7",
+  "major": [
+    "MECL"
+  ],
+  "requests": [],
+  "user": "62547f790dca0a74528781ee",
+  "degree": "Undergraduate",
+  "location": "Troy, NY",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [
+    {
+      "relatedCourses": [
+        "Intro To Engr Analysis",
+        "Engr Graphics & Cad",
+        "Engr Processes",
+        "Materials Science For Engineer",
+        "Engineering Dynamics",
+        "Electronic Instrumentation",
+        "Strength Of Materials",
+        "Mod & Analysis Uncertainty"
+      ],
+      "_id": "625480cf0dca0a193387821b",
+      "area": "Core Engineering",
+      "degree": "Worked",
+      "description": ""
+    },
+    {
+      "relatedCourses": [
+        "Numerical Methods And Programming For Engineers",
+        "Inventors Studio 1",
+        "Thermodynamics",
+        "Fluid Mechanics",
+        "Elements Of Mech Design",
+        "Mechanical Systems Lab",
+        "Introduction To Computational Fluid Dynamics",
+        "Intro To Finite Elements",
+        "Modeling & Control Of Dyn Sys",
+        "Control Systems Lab",
+        "Heat Transfer",
+        "Thermal And Fluids Engineering Laboratory",
+        "Intro Computat Fluid Dynamics"
+      ],
+      "_id": "6254809b0dca0a089b878212",
+      "area": "Mech, Aero, Nucl Engr",
+      "degree": "Undergraduate",
+      "description": ""
+    },
+    {
+      "relatedCourses": [
+        "Calculus I",
+        "Calculus II",
+        "Multivar Calc & Matrix Algebra",
+        "Intro Differential Equations",
+        "Numerical Computing"
+      ],
+      "_id": "625480340dca0a2c9d878209",
+      "area": "Mathematics",
+      "degree": "Worked",
+      "description": ""
+    },
+    {
+      "relatedCourses": [
+        "Computer Science I",
+        "Numerical Computing"
+      ],
+      "_id": "62547fff0dca0aad2a878200",
+      "area": "Computer Science",
+      "degree": "Worked",
+      "description": "Programming experience in Python, MATLAB, and C++"
+    }
+  ],
+  "date": "2022-04-11 19:21:06.344000",
+  "__v": 4
+}{
+  "_id": "6254a27c0dca0a56f4878269",
+  "major": [
+    "Math"
+  ],
+  "requests": [],
+  "user": "6254a2580dca0a1ae8878260",
+  "degree": "Undergraduate",
+  "location": "Troy, NY",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-11 21:49:48.744000",
+  "__v": 0
+}{
+  "_id": "6254c1920dca0a51b487827a",
+  "major": [
+    "Math"
+  ],
+  "requests": [],
+  "user": "6254c16e0dca0a2428878271",
+  "degree": "Undergraduate",
+  "bio": "Undergraduate math and business dual major. ",
+  "location": "Troy, NY",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [
+    {
+      "relatedCourses": [
+        "Communication Theory & Prac.",
+        "Visual Poetics & Narrative",
+        "Foundations Of Hci Usability"
+      ],
+      "_id": "6254c1c50dca0a2e1f878283",
+      "area": "Communication",
+      "degree": "Worked",
+      "description": "Nothing"
+    }
+  ],
+  "date": "2022-04-12 00:02:26.036000",
+  "__v": 1
+}{
+  "_id": "6255d5800dca0a598d878311",
+  "major": [
+    "Aerospace Engineering"
+  ],
+  "requests": [],
+  "user": "6255d5700dca0a7a7b878308",
+  "degree": "Undergraduate",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-12 19:39:44.792000",
+  "__v": 0,
+  "social": {}
+}{
+  "_id": "625f9a610dca0a4273878457",
+  "major": [
+    "child molestation"
+  ],
+  "requests": [],
+  "user": "625f9a4b0dca0a667887844e",
+  "degree": "K-12",
+  "bio": "n word",
+  "location": "earth",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [
+    {
+      "relatedCourses": [
+        "Graphic Storytelling"
+      ],
+      "_id": "625f9a7e0dca0acd88878460",
+      "area": "Arts",
+      "degree": "PHD",
+      "description": "i draw dicks"
+    }
+  ],
+  "date": "2022-04-20 05:30:09.671000",
+  "__v": 1
+}{
+  "_id": "62617bfb0dca0ae2b58784a6",
+  "major": [
+    "Good"
+  ],
+  "requests": [],
+  "user": "625f72450dca0aff4d878442",
+  "degree": "High School",
+  "bio": "hi",
+  "location": "Shadow Realm Gaming Official Gaming Headquaters",
+  "role": "Student",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-21 15:44:59.760000",
+  "__v": 0
+}{
+  "_id": "6261b13f0dca0a42808784bd",
+  "major": [
+    "Good"
+  ],
+  "requests": [],
+  "user": "6261b1300dca0ace258784b4",
+  "degree": "Undergraduate",
+  "bio": "Me",
+  "location": "NYC, NY",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [
+    {
+      "relatedCourses": [
+        "Rcos == 1 Credit"
+      ],
+      "_id": "6261b1550dca0abf068784d1",
+      "area": "Computer Science",
+      "degree": "Undergraduate",
+      "description": "RCOS!!!"
+    }
+  ],
+  "date": "2022-04-21 19:32:15.680000",
+  "__v": 1
+}{
+  "_id": "626304810dca0a6dfe878503",
+  "major": [
+    "CSCI"
+  ],
+  "requests": [],
+  "user": "6263046a0dca0a69038784fa",
+  "degree": "Undergraduate",
+  "bio": "Student here at RPI",
+  "location": "Troy, NY",
+  "role": "Student",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-22 19:39:45.459000",
+  "__v": 0
+}{
+  "_id": "626313990dca0acf92878523",
+  "major": [
+    "CSCI"
+  ],
+  "requests": [],
+  "user": "626313820dca0a1b1587851a",
+  "degree": "Undergraduate",
+  "bio": "I am the best RCOS student!",
+  "location": "Troy, NY",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [
+    {
+      "relatedCourses": [
+        "Rcos == 1 Credit"
+      ],
+      "_id": "626313c80dca0a7573878538",
+      "area": "Computer Science",
+      "degree": "Undergraduate",
+      "description": "RCOS EXPERT!"
+    }
+  ],
+  "date": "2022-04-22 20:44:09.088000",
+  "__v": 1
+}{
+  "_id": "6267f1430dca0acf8b878568",
+  "major": [
+    "Computer Science"
+  ],
+  "requests": [],
+  "user": "6267f11f0dca0a1fc287855f",
+  "degree": "PHD",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [
+    {
+      "relatedCourses": [
+        "Computer Science I"
+      ],
+      "_id": "6267f42b0dca0a5b2e8785aa",
+      "area": "Computer Science",
+      "degree": "PHD",
+      "description": ""
+    }
+  ],
+  "date": "2022-04-26 13:18:59.693000",
+  "__v": 1,
+  "social": {}
+}{
+  "_id": "6267fb350dca0a9a708785df",
+  "major": [
+    "Phd"
+  ],
+  "requests": [],
+  "user": "6267fae90dca0a1b4e8785cf",
+  "degree": "Postgraduate",
+  "role": "Student",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-26 14:01:25.609000",
+  "__v": 0
+}{
+  "_id": "6267fb720dca0a3d828785f3",
+  "major": [
+    "Phd"
+  ],
+  "requests": [],
+  "user": "6267fb620dca0a7dbb8785ea",
+  "degree": "Postgraduate",
+  "role": "Tutor",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-26 14:02:26.663000",
+  "__v": 0
+}{
+  "_id": "6267fc640dca0a98a4878605",
+  "major": [
+    "CSCI",
+    "School"
+  ],
+  "requests": [],
+  "user": "6267fc1f0dca0a3cff8785fc",
+  "degree": "Undergraduate",
+  "bio": "Yo yo yo I just finished the ML From Data Final Exam!",
+  "location": "Troy, NY",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [
+    {
+      "relatedCourses": [
+        "Computer Science I"
+      ],
+      "_id": "6267fcb40dca0a836c878630",
+      "area": "Computer Science",
+      "degree": "Undergraduate",
+      "description": "To show you the power of lists, I sliced this list in half!"
+    }
+  ],
+  "date": "2022-04-26 14:06:28.583000",
+  "__v": 1,
+  "social": {}
+}{
+  "_id": "6267fc790dca0a2759878621",
+  "major": [
+    "Information Technology"
+  ],
+  "requests": [],
+  "user": "6267fc670dca0a547d87860e",
+  "degree": "Postgraduate",
+  "location": "troy",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [
+    {
+      "relatedCourses": [
+        "Business Issues For Engr & Sci",
+        "Data Science",
+        "Data Analytics",
+        "It Master's Capstone"
+      ],
+      "_id": "6267fcef0dca0a1cd9878671",
+      "area": "Information Technlgy & Web Sci",
+      "degree": "Postgraduate",
+      "description": ""
+    }
+  ],
+  "date": "2022-04-26 14:06:49.779000",
+  "__v": 1
+}{
+  "_id": "62681a8b0dca0a996c8786ac",
+  "major": [
+    "Computer Science",
+    "School"
+  ],
+  "requests": [],
+  "user": "626819620dca0a33ef8786a3",
+  "degree": "Undergraduate",
+  "bio": "I am a freshman interested in computer science.",
+  "location": "Jersey City, NJ",
+  "role": "Both",
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/sphia-sadek-119a1a1b7/"
+  },
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-26 16:15:07.743000",
+  "__v": 0
+}{
+  "_id": "62682a300dca0af5d38786e3",
+  "major": [
+    "MATH",
+    "CSCI"
+  ],
+  "requests": [],
+  "user": "62682a100dca0ad4768786da",
+  "degree": "Undergraduate",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-26 17:21:52.251000",
+  "__v": 0
+}{
+  "_id": "62683ded0dca0ae6018786fb",
+  "major": [
+    "Computer & Systems Engineering"
+  ],
+  "requests": [],
+  "user": "62683dda0dca0acbe48786f2",
+  "degree": "Undergraduate",
+  "location": "Troy, NY",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-26 18:46:05.542000",
+  "__v": 0
+}{
+  "_id": "626854690dca0a62bf87870e",
+  "major": [
+    "Engineering"
+  ],
+  "requests": [],
+  "user": "6268541a0dca0a76e1878705",
+  "degree": "Undergraduate",
+  "location": "Berlin",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [
+    {
+      "relatedCourses": [
+        "Database Applications & Syst"
+      ],
+      "_id": "626854a60dca0a606387871b",
+      "area": "Information Technlgy & Web Sci",
+      "degree": "Undergraduate",
+      "description": ""
+    }
+  ],
+  "date": "2022-04-26 20:22:01.162000",
+  "__v": 1
+}{
+  "_id": "62687cc30dca0a60ae878737",
+  "major": [
+    "Business"
+  ],
+  "requests": [],
+  "user": "62687c8a0dca0acc9e87872e",
+  "degree": "Postgraduate",
+  "bio": "IT professional ",
+  "location": "Texas",
+  "role": "Tutor",
+  "experience": [],
+  "education": [],
+  "expertise": [
+    {
+      "relatedCourses": [
+        "Science, Technology & Society"
+      ],
+      "_id": "62687d870dca0a697987874b",
+      "area": "Science, Technology & Society",
+      "degree": "Postgraduate",
+      "description": ""
+    }
+  ],
+  "date": "2022-04-26 23:14:11.909000",
+  "__v": 1
+}{
+  "_id": "626970e20dca0ac2ad87878c",
+  "major": [
+    "CSCI School"
+  ],
+  "requests": [],
+  "user": "626970970dca0a5263878783",
+  "degree": "PHD",
+  "bio": "2nd Year Ph.D. student in Computer Science",
+  "location": "Troy, NY",
+  "role": "Both",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-27 16:35:46.223000",
+  "__v": 0
+}{
+  "_id": "626982090dca0ae485878867",
+  "major": [
+    "Industrial and Systems Engineering"
+  ],
+  "requests": [],
+  "user": "626981cb0dca0a79e087885e",
+  "degree": "PHD",
+  "bio": "I like efficiency, math, and people.  This means Industrial and Systems Engineering is a great fit.  ",
+  "location": "Troy, NY",
+  "role": "Tutor",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-27 17:48:57.684000",
+  "__v": 0
+}{
+  "_id": "6269b12e0dca0ae30f878881",
+  "major": [
+    "EPL"
+  ],
+  "requests": [],
+  "user": "6269b1090dca0a94c3878878",
+  "degree": "Postgraduate",
+  "role": "Student",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-27 21:10:06.688000",
+  "__v": 0
+}{
+  "_id": "626ab3fe0dca0a6b608788ce",
+  "major": [
+    "Industrial Engineer"
+  ],
+  "requests": [],
+  "user": "626ab3dc0dca0a18d98788c5",
+  "degree": "Undergraduate",
+  "role": "Student",
+  "experience": [],
+  "education": [],
+  "expertise": [],
+  "date": "2022-04-28 15:34:22.108000",
+  "__v": 0
+}
