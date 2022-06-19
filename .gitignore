@@ -1,3 +1,5 @@
 datasets/.DS_Store
 datasets/credits.csv
 mongoDBURI.txt
+webscraping/catalog.json
+webscraping/catalog_text.json
