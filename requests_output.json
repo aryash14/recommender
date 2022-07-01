@@ -1,0 +1,765 @@
+{
+  "_id": "6254e71e0dca0a2b758782ab",
+  "availability": [],
+  "status": "open",
+  "user": "624f4d1b32b8f92f5eb39c55",
+  "request": "I want to get better at understanding projections",
+  "subject": "Mathematics",
+  "course": "Calculus II",
+  "grade": "Undergraduate",
+  "topic": "Projection Matrices",
+  "help_time": "Month",
+  "potential_tutors": [
+    {
+      "state": "UNSEND",
+      "_id": "62547f790dca0a74528781ee",
+      "name": "Derek Chen",
+      "avatar": "https://gravatar.com/avatar/967e062fd91bf8c4ccd5da3c53d968e1?d=mm&r=pg&s=200"
+    }
+  ],
+  "last_edit_time": "2022-04-12 02:42:38.107000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "626304a70dca0a242b87850b",
+  "availability": [
+    "sunday morning",
+    "sunday evening",
+    "sunday night"
+  ],
+  "status": "open",
+  "user": "6263046a0dca0a69038784fa",
+  "request": "I need help with this!",
+  "subject": "Computer Science",
+  "course": "Rcos == 1 Credit",
+  "grade": "Undergraduate",
+  "topic": "center a div",
+  "help_time": "ASAP",
+  "number_sessions": 1,
+  "potential_tutors": [
+    {
+      "state": "UNSEND",
+      "_id": "624f4d1b32b8f92f5eb39c55",
+      "name": "Samyuth",
+      "avatar": "https://gravatar.com/avatar/d580da9c05c54fc9ade08203ae727658?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "62547f790dca0a74528781ee",
+      "name": "Derek Chen",
+      "avatar": "https://gravatar.com/avatar/967e062fd91bf8c4ccd5da3c53d968e1?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "6261b1300dca0ace258784b4",
+      "name": "Zhi",
+      "avatar": "https://gravatar.com/avatar/4ed7923e60c95b463cb9222db73e1e4d?d=mm&r=pg&s=200"
+    }
+  ],
+  "last_edit_time": "2022-04-22 19:40:23.199000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "626313ea0dca0a220b87854f",
+  "availability": [],
+  "status": "open",
+  "user": "626313820dca0a1b1587851a",
+  "request": "RCOS",
+  "subject": "Computer Science",
+  "course": "Rcos == 1 Credit",
+  "grade": "Undergraduate",
+  "topic": "how to center a div",
+  "help_time": "ASAP",
+  "number_sessions": 1,
+  "potential_tutors": [
+    {
+      "state": "UNSEND",
+      "_id": "62547f790dca0a74528781ee",
+      "name": "Derek Chen",
+      "avatar": "https://gravatar.com/avatar/967e062fd91bf8c4ccd5da3c53d968e1?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "6261b1300dca0ace258784b4",
+      "name": "Zhi",
+      "avatar": "https://gravatar.com/avatar/4ed7923e60c95b463cb9222db73e1e4d?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "624f4d1b32b8f92f5eb39c55",
+      "name": "Samyuth",
+      "avatar": "https://gravatar.com/avatar/d580da9c05c54fc9ade08203ae727658?d=mm&r=pg&s=200"
+    }
+  ],
+  "last_edit_time": "2022-04-22 20:45:30.187000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "6267f1b40dca0a224487857e",
+  "availability": [],
+  "status": "open",
+  "user": "6267f11f0dca0a1fc287855f",
+  "request": "Computer Science Homework",
+  "subject": "Computer Science",
+  "course": "Computer Science I",
+  "grade": "Undergraduate",
+  "potential_tutors": [
+    {
+      "state": "CHECKING",
+      "_id": "624f4d1b32b8f92f5eb39c55",
+      "name": "Samyuth",
+      "avatar": "https://gravatar.com/avatar/d580da9c05c54fc9ade08203ae727658?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "6261b1300dca0ace258784b4",
+      "name": "Zhi",
+      "avatar": "https://gravatar.com/avatar/4ed7923e60c95b463cb9222db73e1e4d?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "62547f790dca0a74528781ee",
+      "name": "Derek Chen",
+      "avatar": "https://gravatar.com/avatar/967e062fd91bf8c4ccd5da3c53d968e1?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "626313820dca0a1b1587851a",
+      "name": "Zhi Zheng",
+      "avatar": "https://gravatar.com/avatar/c2476bfaa0ba47d6c48ca0c7499f9a2c?d=mm&r=pg&s=200"
+    }
+  ],
+  "last_edit_time": "2022-04-26 13:20:52.022000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "6267fe180dca0a5f61878682",
+  "availability": [
+    "sunday evening",
+    "sunday morning",
+    "sunday night",
+    "saturday morning",
+    "saturday evening",
+    "saturday night",
+    "monday morning",
+    "tuesday morning",
+    "wednesday morning",
+    "thursday morning",
+    "friday morning"
+  ],
+  "status": "open",
+  "user": "6267fc1f0dca0a3cff8785fc",
+  "request": "I would like to learn how to draw a perfect circle by hand.",
+  "subject": "Games & Simulation Arts & Sci",
+  "course": "Master's Project",
+  "grade": "None",
+  "topic": "I could not find the relevant class listed. However, the topic I need help with is the same as the first box where you ask for details regarding what I'm looking for.",
+  "help_time": "Month",
+  "number_sessions": 1,
+  "potential_tutors": [],
+  "last_edit_time": "2022-04-26 14:13:44.322000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "62681be40dca0a5aed8786be",
+  "availability": [
+    "saturday night",
+    "saturday evening",
+    "saturday morning",
+    "friday morning",
+    "friday evening",
+    "friday night",
+    "thursday evening",
+    "thursday morning",
+    "thursday night",
+    "sunday morning",
+    "monday morning",
+    "tuesday morning",
+    "wednesday morning"
+  ],
+  "status": "open",
+  "user": "626819620dca0a33ef8786a3",
+  "request": "Final Exam Studying",
+  "subject": "Computer Science",
+  "course": "Data Structures",
+  "grade": "Undergraduate",
+  "topic": "Recursion, Binary Trees, Hash Tables, Multiple Inheritance & Exceptions",
+  "help_time": "Week",
+  "number_sessions": 5,
+  "potential_tutors": [
+    {
+      "state": "UNSEND",
+      "_id": "62547f790dca0a74528781ee",
+      "name": "Derek Chen",
+      "avatar": "https://gravatar.com/avatar/967e062fd91bf8c4ccd5da3c53d968e1?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "6267f11f0dca0a1fc287855f",
+      "name": "Uzma",
+      "avatar": "https://gravatar.com/avatar/e4f94ccb794d3e5cc1fbc97d3042f91c?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "624f4d1b32b8f92f5eb39c55",
+      "name": "Samyuth",
+      "avatar": "https://gravatar.com/avatar/d580da9c05c54fc9ade08203ae727658?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "6267fc1f0dca0a3cff8785fc",
+      "name": "Louis Lu",
+      "avatar": "https://gravatar.com/avatar/ceaa8fec3f4b15bb7138d313fbaf1d93?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "626313820dca0a1b1587851a",
+      "name": "Zhi Zheng",
+      "avatar": "https://gravatar.com/avatar/c2476bfaa0ba47d6c48ca0c7499f9a2c?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "6261b1300dca0ace258784b4",
+      "name": "Zhi",
+      "avatar": "https://gravatar.com/avatar/4ed7923e60c95b463cb9222db73e1e4d?d=mm&r=pg&s=200"
+    }
+  ],
+  "last_edit_time": "2022-04-26 16:20:52.816000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "626ab49a0dca0a78f18788ec",
+  "availability": [
+    "sunday morning",
+    "sunday evening",
+    "sunday night",
+    "thursday evening",
+    "thursday night",
+    "friday evening",
+    "friday morning",
+    "friday night",
+    "saturday morning",
+    "saturday evening"
+  ],
+  "status": "open",
+  "user": "626ab3dc0dca0a18d98788c5",
+  "request": "Studying for physics 1 finals",
+  "subject": "Physics",
+  "course": "Physics I",
+  "grade": "Undergraduate",
+  "topic": "Final exam",
+  "help_time": "ASAP",
+  "number_sessions": 4,
+  "potential_tutors": [],
+  "last_edit_time": "2022-04-28 15:36:58.279000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "626abe580dca0ab2ba8788f5",
+  "availability": [
+    "sunday morning",
+    "sunday evening",
+    "sunday night",
+    "friday morning",
+    "friday evening",
+    "friday night",
+    "saturday morning",
+    "saturday evening",
+    "saturday night",
+    "thursday evening",
+    "thursday night"
+  ],
+  "status": "open",
+  "user": "626ab3dc0dca0a18d98788c5",
+  "request": "Studying for physics 1 finals",
+  "subject": "Physics",
+  "course": "Physics I",
+  "grade": "Undergraduate",
+  "topic": "Final exam",
+  "help_time": "ASAP",
+  "number_sessions": 2,
+  "potential_tutors": [],
+  "last_edit_time": "2022-04-28 16:18:32.651000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "62a3923f0dca0a5ac48789dd",
+  "availability": [],
+  "status": "open",
+  "user": "624f4d1b32b8f92f5eb39c55",
+  "request": "I want to be better at math 4",
+  "subject": "Mathematics",
+  "course": "Calculus II",
+  "potential_tutors": [
+    {
+      "state": "UNSEND",
+      "_id": "62547f790dca0a74528781ee",
+      "name": "Derek Chen",
+      "avatar": "https://gravatar.com/avatar/967e062fd91bf8c4ccd5da3c53d968e1?d=mm&r=pg&s=200"
+    }
+  ],
+  "last_edit_time": "2022-06-10 18:49:35.843000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "62a957372fd2246655d9c4e6",
+  "availability": [
+    "monday morning",
+    "tuesday evening",
+    "thursday evening",
+    "friday morning"
+  ],
+  "status": "open",
+  "tutor_rating": -1,
+  "user": "62a956af2fd224d6a3d9c4c8",
+  "request": "Learning astronomy",
+  "subject": "Astronomy",
+  "course": "Cosmology",
+  "grade": "Undergraduate",
+  "topic": "Space",
+  "help_time": "When do you need help?",
+  "number_sessions": 3,
+  "potential_tutors": [],
+  "last_edit_time": "2022-06-24 18:06:25.665000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "62a95d232fd2248e5ed9c52a",
+  "availability": [
+    "sunday morning",
+    "monday evening",
+    "tuesday night",
+    "wednesday evening",
+    "thursday morning",
+    "friday evening"
+  ],
+  "status": "open",
+  "tutor_rating": -1,
+  "user": "62a8c8a840c67729e2c0aa0c",
+  "request": "i want free rcos swag",
+  "subject": "Physics",
+  "course": "Physics I",
+  "grade": "K-12",
+  "topic": "topic",
+  "help_time": "Month",
+  "number_sessions": 444,
+  "potential_tutors": [],
+  "last_edit_time": "2022-06-15 04:16:35.606000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "62a95ddc2fd22469a9d9c576",
+  "availability": [
+    "sunday morning",
+    "monday morning",
+    "tuesday morning",
+    "wednesday morning",
+    "thursday morning",
+    "friday morning",
+    "saturday evening"
+  ],
+  "status": "open",
+  "tutor_rating": -1,
+  "user": "62a8c8a840c67729e2c0aa0c",
+  "request": "H\u00caLL\u00d5",
+  "subject": "Aerospace Studies",
+  "course": "Aerospace Studies 200A",
+  "grade": "None",
+  "topic": "asd",
+  "help_time": "Today",
+  "number_sessions": 5,
+  "potential_tutors": [],
+  "last_edit_time": "2022-06-15 04:20:02.582000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "62a95e8c2fd2241614d9c5a9",
+  "availability": [
+    "monday night"
+  ],
+  "status": "open",
+  "tutor_rating": -1,
+  "user": "62a8c8a840c67729e2c0aa0c",
+  "request": "asd",
+  "subject": "Mathematics",
+  "course": "Mathematical Analysis I",
+  "grade": "PHD",
+  "topic": "1+1",
+  "number_sessions": -5,
+  "potential_tutors": [
+    {
+      "state": "CHECKING",
+      "_id": "62547f790dca0a74528781ee",
+      "name": "Derek Chen",
+      "avatar": "https://gravatar.com/avatar/967e062fd91bf8c4ccd5da3c53d968e1?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "CHECKING",
+      "_id": "624f4d1b32b8f92f5eb39c55",
+      "name": "Samyuth",
+      "avatar": "https://gravatar.com/avatar/d580da9c05c54fc9ade08203ae727658?d=mm&r=pg&s=200"
+    }
+  ],
+  "last_edit_time": "2022-06-15 04:24:32.052000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "62a9e4f12fd2245c98d9c6c4",
+  "availability": [
+    "wednesday evening"
+  ],
+  "status": "open",
+  "tutor_rating": -1,
+  "user": "62a8c82040c677738ac0a9d0",
+  "request": "Homework help",
+  "subject": "Chemistry",
+  "course": "Chemistry I",
+  "grade": "Undergraduate",
+  "number_sessions": 1,
+  "potential_tutors": [],
+  "last_edit_time": "2022-06-15 13:56:01.168000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "62acbca72fd2247712d9c791",
+  "availability": [
+    "monday evening",
+    "wednesday night",
+    "thursday evening",
+    "friday morning",
+    "saturday night"
+  ],
+  "status": "open",
+  "tutor_rating": -1,
+  "user": "62acbb7e2fd224007ed9c748",
+  "request": "Req 1",
+  "subject": "Computer Science",
+  "course": "Rcos == 1 Credit",
+  "grade": "Undergraduate",
+  "topic": "Someone respond",
+  "help_time": "ASAP",
+  "number_sessions": 3,
+  "potential_tutors": [
+    {
+      "state": "CHECKING",
+      "_id": "62547f790dca0a74528781ee",
+      "name": "Derek Chen",
+      "avatar": "https://gravatar.com/avatar/967e062fd91bf8c4ccd5da3c53d968e1?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "6267fc1f0dca0a3cff8785fc",
+      "name": "Louis Lu",
+      "avatar": "https://gravatar.com/avatar/ceaa8fec3f4b15bb7138d313fbaf1d93?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "CHECKING",
+      "_id": "624f4d1b32b8f92f5eb39c55",
+      "name": "Samyuth",
+      "avatar": "https://gravatar.com/avatar/d580da9c05c54fc9ade08203ae727658?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "CHECKING",
+      "_id": "626313820dca0a1b1587851a",
+      "name": "Zhi Zheng",
+      "avatar": "https://gravatar.com/avatar/c2476bfaa0ba47d6c48ca0c7499f9a2c?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "6261b1300dca0ace258784b4",
+      "name": "Zhi",
+      "avatar": "https://gravatar.com/avatar/4ed7923e60c95b463cb9222db73e1e4d?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "CHECKING",
+      "_id": "62a8c82040c677738ac0a9d0",
+      "name": "Nadia Choudhury",
+      "avatar": "https://gravatar.com/avatar/933c1134fdba32533d5403c9438bbd09?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "CHECKING",
+      "_id": "6267f11f0dca0a1fc287855f",
+      "name": "Uzma",
+      "avatar": "https://gravatar.com/avatar/e4f94ccb794d3e5cc1fbc97d3042f91c?d=mm&r=pg&s=200"
+    }
+  ],
+  "last_edit_time": "2022-06-17 17:40:55.063000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "62acbcd62fd22440fdd9c7aa",
+  "availability": [],
+  "status": "open",
+  "tutor_rating": -1,
+  "user": "62acbb7e2fd224007ed9c748",
+  "request": "Req 2",
+  "subject": "Computer Science",
+  "course": "Computer Science I",
+  "grade": "Undergraduate",
+  "help_time": "When do you need help?",
+  "potential_tutors": [
+    {
+      "state": "CHECKING",
+      "_id": "6267fc1f0dca0a3cff8785fc",
+      "name": "Louis Lu",
+      "avatar": "https://gravatar.com/avatar/ceaa8fec3f4b15bb7138d313fbaf1d93?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "CHECKING",
+      "_id": "624f4d1b32b8f92f5eb39c55",
+      "name": "Samyuth",
+      "avatar": "https://gravatar.com/avatar/d580da9c05c54fc9ade08203ae727658?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "CHECKING",
+      "_id": "6267f11f0dca0a1fc287855f",
+      "name": "Uzma",
+      "avatar": "https://gravatar.com/avatar/e4f94ccb794d3e5cc1fbc97d3042f91c?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "CHECKING",
+      "_id": "62a8c82040c677738ac0a9d0",
+      "name": "Nadia Choudhury",
+      "avatar": "https://gravatar.com/avatar/933c1134fdba32533d5403c9438bbd09?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "CHECKING",
+      "_id": "62547f790dca0a74528781ee",
+      "name": "Derek Chen",
+      "avatar": "https://gravatar.com/avatar/967e062fd91bf8c4ccd5da3c53d968e1?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "626313820dca0a1b1587851a",
+      "name": "Zhi Zheng",
+      "avatar": "https://gravatar.com/avatar/c2476bfaa0ba47d6c48ca0c7499f9a2c?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "CHECKING",
+      "_id": "6261b1300dca0ace258784b4",
+      "name": "Zhi",
+      "avatar": "https://gravatar.com/avatar/4ed7923e60c95b463cb9222db73e1e4d?d=mm&r=pg&s=200"
+    }
+  ],
+  "last_edit_time": "2022-06-17 17:41:42.087000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "62acbcf82fd2248506d9c7e7",
+  "availability": [],
+  "status": "open",
+  "tutor_rating": -1,
+  "user": "62acbb7e2fd224007ed9c748",
+  "request": "Req 3",
+  "subject": "Computer Science",
+  "course": "Data Structures",
+  "grade": "Undergraduate",
+  "help_time": "Month",
+  "number_sessions": 10,
+  "potential_tutors": [
+    {
+      "state": "CHECKING",
+      "_id": "62a8c82040c677738ac0a9d0",
+      "name": "Nadia Choudhury",
+      "avatar": "https://gravatar.com/avatar/933c1134fdba32533d5403c9438bbd09?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "624f4d1b32b8f92f5eb39c55",
+      "name": "Samyuth",
+      "avatar": "https://gravatar.com/avatar/d580da9c05c54fc9ade08203ae727658?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "CHECKING",
+      "_id": "626313820dca0a1b1587851a",
+      "name": "Zhi Zheng",
+      "avatar": "https://gravatar.com/avatar/c2476bfaa0ba47d6c48ca0c7499f9a2c?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "CHECKING",
+      "_id": "6267fc1f0dca0a3cff8785fc",
+      "name": "Louis Lu",
+      "avatar": "https://gravatar.com/avatar/ceaa8fec3f4b15bb7138d313fbaf1d93?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "CHECKING",
+      "_id": "62547f790dca0a74528781ee",
+      "name": "Derek Chen",
+      "avatar": "https://gravatar.com/avatar/967e062fd91bf8c4ccd5da3c53d968e1?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "6267f11f0dca0a1fc287855f",
+      "name": "Uzma",
+      "avatar": "https://gravatar.com/avatar/e4f94ccb794d3e5cc1fbc97d3042f91c?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "CHECKING",
+      "_id": "6261b1300dca0ace258784b4",
+      "name": "Zhi",
+      "avatar": "https://gravatar.com/avatar/4ed7923e60c95b463cb9222db73e1e4d?d=mm&r=pg&s=200"
+    }
+  ],
+  "last_edit_time": "2022-06-17 17:42:16.854000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "62b2140c7f349caac8ff5a47",
+  "availability": [
+    "monday morning",
+    "monday evening",
+    "monday night",
+    "wednesday morning",
+    "wednesday evening",
+    "wednesday night",
+    "friday morning",
+    "friday evening",
+    "friday night"
+  ],
+  "status": "open",
+  "tutor_rating": -1,
+  "user": "62b212bb7f349cd42aff593e",
+  "request": "Homework",
+  "subject": "Computer Science",
+  "course": "Foundations Of Computer Sci",
+  "grade": "Undergraduate",
+  "topic": "Proofs",
+  "help_time": "ASAP",
+  "number_sessions": 2,
+  "potential_tutors": [
+    {
+      "state": "UNSEND",
+      "_id": "6267fc1f0dca0a3cff8785fc",
+      "name": "Louis Lu",
+      "avatar": "https://gravatar.com/avatar/ceaa8fec3f4b15bb7138d313fbaf1d93?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "62547f790dca0a74528781ee",
+      "name": "Derek Chen",
+      "avatar": "https://gravatar.com/avatar/967e062fd91bf8c4ccd5da3c53d968e1?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "624f4d1b32b8f92f5eb39c55",
+      "name": "Samyuth",
+      "avatar": "https://gravatar.com/avatar/d580da9c05c54fc9ade08203ae727658?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "62acbb7e2fd224007ed9c748",
+      "name": "Harshita",
+      "avatar": "https://gravatar.com/avatar/efdf195f536be7304002ede128969dd1?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "62a8c82040c677738ac0a9d0",
+      "name": "Nadia Choudhury",
+      "avatar": "https://gravatar.com/avatar/933c1134fdba32533d5403c9438bbd09?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "6261b1300dca0ace258784b4",
+      "name": "Zhi",
+      "avatar": "https://gravatar.com/avatar/4ed7923e60c95b463cb9222db73e1e4d?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "6267f11f0dca0a1fc287855f",
+      "name": "Uzma",
+      "avatar": "https://gravatar.com/avatar/e4f94ccb794d3e5cc1fbc97d3042f91c?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "626313820dca0a1b1587851a",
+      "name": "Zhi Zheng",
+      "avatar": "https://gravatar.com/avatar/c2476bfaa0ba47d6c48ca0c7499f9a2c?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "62acbc6e2fd22493aad9c776",
+      "name": "Zhi Zheng",
+      "avatar": "https://gravatar.com/avatar/29ae68bb51e37f26185f1f1b15f9a652?d=mm&r=pg&s=200"
+    }
+  ],
+  "last_edit_time": "2022-06-21 18:55:08.123000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "62b3d67b7f349cd96dff5c62",
+  "availability": [
+    "monday evening",
+    "tuesday evening",
+    "wednesday evening",
+    "thursday evening",
+    "friday evening",
+    "saturday night"
+  ],
+  "status": "open",
+  "tutor_rating": -1,
+  "user": "62b212bb7f349cd42aff593e",
+  "request": "Overall material",
+  "subject": "Mathematics",
+  "course": "Calculus II",
+  "grade": "Undergraduate",
+  "topic": "Differential equations",
+  "help_time": "Week",
+  "potential_tutors": [
+    {
+      "state": "UNSEND",
+      "_id": "62547f790dca0a74528781ee",
+      "name": "Derek Chen",
+      "avatar": "https://gravatar.com/avatar/967e062fd91bf8c4ccd5da3c53d968e1?d=mm&r=pg&s=200"
+    },
+    {
+      "state": "UNSEND",
+      "_id": "624f4d1b32b8f92f5eb39c55",
+      "name": "Samyuth",
+      "avatar": "https://gravatar.com/avatar/d580da9c05c54fc9ade08203ae727658?d=mm&r=pg&s=200"
+    }
+  ],
+  "last_edit_time": "2022-06-23 02:56:59.416000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "62b3d6ff7f349c324dff5cc9",
+  "availability": [
+    "saturday morning",
+    "saturday evening",
+    "saturday night",
+    "sunday morning",
+    "sunday evening",
+    "sunday night",
+    "wednesday morning",
+    "wednesday evening",
+    "wednesday night"
+  ],
+  "status": "open",
+  "tutor_rating": -1,
+  "user": "62b212bb7f349cd42aff593e",
+  "request": "Term Paper",
+  "subject": "Writing",
+  "course": "Writing In Context",
+  "grade": "Undergraduate",
+  "topic": "Organizing the paper",
+  "help_time": "Month",
+  "number_sessions": 1,
+  "potential_tutors": [],
+  "last_edit_time": "2022-06-23 02:59:11.683000",
+  "bids": [],
+  "__v": 0
+}{
+  "_id": "62b5fd3b7f349c6a7eff5e77",
+  "availability": [],
+  "status": "open",
+  "tutor_rating": -1,
+  "user": "62a956af2fd224d6a3d9c4c8",
+  "request": "stuff",
+  "subject": "Aerospace Studies",
+  "course": "Aerospace Studies 100A",
+  "grade": "Undergraduate",
+  "potential_tutors": [],
+  "last_edit_time": "2022-06-24 18:06:51.212000",
+  "bids": [],
+  "__v": 0
+}
