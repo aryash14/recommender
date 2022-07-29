@@ -3,3 +3,5 @@ datasets/credits.csv
 mongoDBURI.txt
 webscraping/catalog.json
 webscraping/catalog_text.json
+pandas/crypto.csv
+pandas/S&P500_prices.csv
